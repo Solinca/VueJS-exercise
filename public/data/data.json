@@ -1,0 +1,50 @@
+{
+  "food": {
+    "hamburger" : {
+      "name": "hamburger",
+      "color": "#ff00e3",
+      "items": {
+        "cheese": {
+          "name": "cheese",
+          "price": 5
+        },
+        "bacon": {
+          "name": "bacon",
+          "price": 8
+        },
+        "original": {
+          "name": "original",
+          "price": 10
+        }
+      }
+    },
+    "snack" : {
+      "name": "snack",
+      "color": "#00ff0a",
+      "items": {
+        "potatoes": {
+          "name": "potatoes",
+          "price": 1
+        },
+        "onion ring": {
+          "name": "onion ring",
+          "price": 2
+        }
+      }
+    },
+    "drink" : {
+      "name": "drink",
+      "color": "#ff480c",
+      "items": {
+        "kirin": {
+          "name": "kirin",
+          "price": 3
+        },
+        "asahi": {
+          "name": "asahi",
+          "price": 3
+        }
+      }
+    }
+  }
+}
